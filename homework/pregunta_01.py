@@ -12,6 +12,7 @@ def pregunta_01():
     
 
     """
+    #hola mundo cruel!
     Rta = "Hola mundo cruel!"
     return Rta
 
